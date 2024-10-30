@@ -1,5 +1,5 @@
 # Ignore virtual environment
-myvenv/
+myyolovenv/
 
 # Ignore checkpoints and outputs
 .ipynb_checkpoints/
@@ -14,7 +14,7 @@ My_Videos_and_Images/
 *.mp4
 
 # Ignore large files and datasets
-yolov5.pt
+yolov5s.pt
 
 # Ingore other files
 Drowsiness Detection.docx
