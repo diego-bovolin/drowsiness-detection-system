@@ -7,4 +7,4 @@ When a human is detected by the camera, the system will display the category, wh
 
 ![Me Drowsy Image](https://github.com/user-attachments/assets/3d8f180b-d8b9-47a0-968f-ba40ea1c73ce)
 
-The training process has been carried out by using images of the person shown here (me) applying the corresponding labels to train the model in recognizing the 2 different situations.
+The training process has been carried out by using live snapshots images of the person shown here (me) applying the corresponding labels to train the model in recognizing the 2 different situations.
